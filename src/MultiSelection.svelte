@@ -26,6 +26,7 @@
         cursor: default;
         padding: var(--multiItemPadding, 0 10px 0 15px);
         max-width: 100%;
+        color: var(--multiItemColor, #000000);
     }
 
     .multiSelectItem_label {
